@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a tech enthusiast who would like to explore new technologies
 <!--
 **dilshanran/dilshanran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
