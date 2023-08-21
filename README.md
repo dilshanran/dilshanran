@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Linux,Middleware,AWS Cloud,Virtualization**
 
-- 📫 How to reach me in via **https://www.linkedin.com/in/dilshan-ranmal/**
+- 📫 How to reach me via **https://www.linkedin.com/in/dilshan-ranmal/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
