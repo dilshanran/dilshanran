@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshanran&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanran" /> </p>
 
-- 🌱 I’m currently learning **Devops,Cloud**
+- 🌱 I love automation, coding, problem-solving, learning new skills, and implementing them to solve different challenges.
 
 - 💬 Ask me about **Linux,Middleware,AWS Cloud,Virtualization**
 
